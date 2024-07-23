@@ -1,0 +1,8 @@
+Student Number: 123
+Last Name: d
+First Name: asda
+Middle Initial: a
+Program: BS in Computer Science
+Gender: Male
+Birthday: 2024-07-21
+Contact Number: 21

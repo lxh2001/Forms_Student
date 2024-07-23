@@ -1,0 +1,11 @@
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.csproj.AssemblyReference.cache
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.Properties.Resources.resources
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.csproj.GenerateResource.cache
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.csproj.CoreCompileInputs.cache
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\bin\Debug\Manatad_lab2.exe.config
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\bin\Debug\Manatad_lab2.exe
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\bin\Debug\Manatad_lab2.pdb
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.exe
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.pdb
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.FrmRegistration.resources
+C:\Users\laxh\source\repos\Manatad_lab2\Manatad_lab2\obj\Debug\Manatad_lab2.FrmStudentRecord.resources

@@ -1,0 +1,8 @@
+Student Number: 312
+Last Name: asdasd
+First Name: asdasd
+Middle Initial: a
+Program: BS in Information Technology
+Gender: Male
+Birthday: 2024-07-21
+Contact Number: 123

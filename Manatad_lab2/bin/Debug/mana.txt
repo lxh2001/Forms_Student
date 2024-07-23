@@ -1,0 +1,8 @@
+Student Number: 123
+Last Name: mana
+First Name: ca
+Middle Initial: a
+Program: BS in Information Technology
+Gender: Male
+Birthday: 2024-07-21
+Contact Number: 123

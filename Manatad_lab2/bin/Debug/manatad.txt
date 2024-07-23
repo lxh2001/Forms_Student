@@ -1,0 +1,8 @@
+Student Number: 123
+Last Name: manatad
+First Name: lcaeb
+Middle Initial: a
+Program: BS in Information Technology
+Gender: Male
+Birthday: 2024-07-21
+Contact Number: 32
